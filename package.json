@@ -1,0 +1,19 @@
+{
+  "name": "express-json-error-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "watch": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "bqio",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
